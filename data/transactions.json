@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "date": "2026-01-05",
+    "amount": 22957,
+    "category": "medical",
+    "description": "scale B2B markets"
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "date": "2026-01-16",
+    "amount": 5843,
+    "category": "food",
+    "description": "synergize innovative mindshare"
+  },
+  {
+    "id": 3,
+    "user_id": 1,
+    "date": "2026-01-14",
+    "amount": 25711,
+    "category": "food",
+    "description": "scale world-class applications"
+  },
+  {
+    "id": 4,
+    "user_id": 1,
+    "date": "2026-03-04",
+    "amount": 31612,
+    "category": "salary",
+    "description": "grow B2C e-services"
+  },
+  {
+    "id": 5,
+    "user_id": 1,
+    "date": "2026-01-05",
+    "amount": 33167,
+    "category": "salary",
+    "description": "envisioneer customized functionalities"
+  },
+  {
+    "id": 6,
+    "user_id": 1,
+    "date": "2026-01-28",
+    "amount": 30322,
+    "category": "salary",
+    "description": "drive compelling relationships"
+  },
+  {
+    "id": 7,
+    "user_id": 1,
+    "date": "2026-03-16",
+    "amount": 40146,
+    "category": "investment",
+    "description": "transition compelling e-services"
+  },
+  {
+    "id": 8,
+    "user_id": 1,
+    "date": "2026-01-15",
+    "amount": 39436,
+    "category": "salary",
+    "description": "reinvent front-end e-business"
+  },
+  {
+    "id": 9,
+    "user_id": 1,
+    "date": "2026-01-25",
+    "amount": 5815,
+    "category": "food",
+    "description": "harness revolutionary paradigms"
+  },
+  {
+    "id": 10,
+    "user_id": 1,
+    "date": "2026-02-25",
+    "amount": 49908,
+    "category": "salary",
+    "description": "empower integrated e-commerce"
+  },
+  {
+    "id": 11,
+    "user_id": 1,
+    "date": "2026-02-14",
+    "amount": 27051,
+    "category": "entertainment",
+    "description": "maximize e-business partnerships"
+  },
+  {
+    "id": 12,
+    "user_id": 1,
+    "date": "2026-03-14",
+    "amount": 11563,
+    "category": "salary",
+    "description": "cultivate web-enabled technologies"
+  },
+  {
+    "id": 13,
+    "user_id": 1,
+    "date": "2026-03-21",
+    "amount": 27438,
+    "category": "medical",
+    "description": "transform dot-com experiences"
+  },
+  {
+    "id": 14,
+    "user_id": 1,
+    "date": "2026-01-30",
+    "amount": 16439,
+    "category": "investment",
+    "description": "architect cross-media markets"
+  },
+  {
+    "id": 15,
+    "user_id": 1,
+    "date": "2026-01-06",
+    "amount": 31909,
+    "category": "medical",
+    "description": "innovate collaborative relationships"
+  },
+  {
+    "id": 16,
+    "user_id": 1,
+    "date": "2026-01-28",
+    "amount": 36384,
+    "category": "medical",
+    "description": "transition sticky architectures"
+  },
+  {
+    "id": 17,
+    "user_id": 1,
+    "date": "2026-02-17",
+    "amount": 15211,
+    "category": "medical",
+    "description": "transition proactive eyeballs"
+  },
+  {
+    "id": 18,
+    "user_id": 1,
+    "date": "2026-01-06",
+    "amount": 46468,
+    "category": "salary",
+    "description": "facilitate seamless networks"
+  },
+  {
+    "id": 19,
+    "user_id": 1,
+    "date": "2026-02-08",
+    "amount": 44202,
+    "category": "entertainment",
+    "description": "redefine granular relationships"
+  },
+  {
+    "id": 20,
+    "user_id": 1,
+    "date": "2026-01-24",
+    "amount": 8798,
+    "category": "entertainment",
+    "description": "target cross-platform initiatives"
+  },
+  {
+    "id": 21,
+    "user_id": 2,
+    "date": "2026-03-24",
+    "amount": 47272,
+    "category": "entertainment",
+    "description": "optimize vertical deliverables"
+  },
+  {
+    "id": 22,
+    "user_id": 2,
+    "date": "2026-01-07",
+    "amount": 49108,
+    "category": "entertainment",
+    "description": "productize compelling e-commerce"
+  },
+  {
+    "id": 23,
+    "user_id": 2,
+    "date": "2026-01-12",
+    "amount": 35958,
+    "category": "rent",
+    "description": "re-intermediate ubiquitous e-markets"
+  },
+  {
+    "id": 24,
+    "user_id": 2,
+    "date": "2026-02-20",
+    "amount": 1000,
+    "category": "salary",
+    "description": "re-intermediate global functionalities"
+  },
+  {
+    "id": 25,
+    "user_id": 2,
+    "date": "2026-02-25",
+    "amount": 33587,
+    "category": "entertainment",
+    "description": "streamline granular e-tailers"
+  },
+  {
+    "id": 26,
+    "user_id": 2,
+    "date": "2026-02-05",
+    "amount": 9032,
+    "category": "salary",
+    "description": "repurpose transparent solutions"
+  },
+  {
+    "id": 27,
+    "user_id": 2,
+    "date": "2026-02-15",
+    "amount": 7418,
+    "category": "entertainment",
+    "description": "visualize 24/7 content"
+  },
+  {
+    "id": 28,
+    "user_id": 2,
+    "date": "2026-02-16",
+    "amount": 10288,
+    "category": "medical",
+    "description": "incentivize proactive partnerships"
+  },
+  {
+    "id": 29,
+    "user_id": 2,
+    "date": "2026-01-14",
+    "amount": 18245,
+    "category": "medical",
+    "description": "mesh distributed e-business"
+  },
+  {
+    "id": 30,
+    "user_id": 2,
+    "date": "2026-01-08",
+    "amount": 15962,
+    "category": "medical",
+    "description": "envisioneer strategic markets"
+  },
+  {
+    "id": 31,
+    "user_id": 2,
+    "date": "2026-02-25",
+    "amount": 32454,
+    "category": "salary",
+    "description": "utilize e-business e-commerce"
+  },
+  {
+    "id": 32,
+    "user_id": 2,
+    "date": "2026-02-12",
+    "amount": 44508,
+    "category": "entertainment",
+    "description": "redefine out-of-the-box web services"
+  },
+  {
+    "id": 33,
+    "user_id": 2,
+    "date": "2026-01-19",
+    "amount": 29569,
+    "category": "entertainment",
+    "description": "architect strategic e-commerce"
+  },
+  {
+    "id": 34,
+    "user_id": 2,
+    "date": "2026-02-10",
+    "amount": 5995,
+    "category": "investment",
+    "description": "generate interactive content"
+  },
+  {
+    "id": 35,
+    "user_id": 2,
+    "date": "2026-03-13",
+    "amount": 34462,
+    "category": "rent",
+    "description": "aggregate next-generation vortals"
+  },
+  {
+    "id": 36,
+    "user_id": 2,
+    "date": "2026-03-04",
+    "amount": 45087,
+    "category": "medical",
+    "description": "unleash B2C initiatives"
+  },
+  {
+    "id": 37,
+    "user_id": 2,
+    "date": "2026-03-12",
+    "amount": 5267,
+    "category": "rent",
+    "description": "implement synergistic models"
+  },
+  {
+    "id": 38,
+    "user_id": 2,
+    "date": "2026-02-26",
+    "amount": 34469,
+    "category": "rent",
+    "description": "leverage mission-critical interfaces"
+  },
+  {
+    "id": 39,
+    "user_id": 2,
+    "date": "2026-03-05",
+    "amount": 42761,
+    "category": "rent",
+    "description": "morph revolutionary platforms"
+  },
+  {
+    "id": 40,
+    "user_id": 2,
+    "date": "2026-01-05",
+    "amount": 44230,
+    "category": "entertainment",
+    "description": "syndicate real-time synergies"
+  },
+  {
+    "id": 41,
+    "user_id": 3,
+    "date": "2026-02-18",
+    "amount": 18120,
+    "category": "entertainment",
+    "description": "deliver sticky functionalities"
+  },
+  {
+    "id": 42,
+    "user_id": 3,
+    "date": "2026-01-29",
+    "amount": 27831,
+    "category": "entertainment",
+    "description": "exploit best-of-breed metrics"
+  },
+  {
+    "id": 43,
+    "user_id": 3,
+    "date": "2026-03-24",
+    "amount": 17651,
+    "category": "salary",
+    "description": "enable compelling infrastructures"
+  },
+  {
+    "id": 44,
+    "user_id": 3,
+    "date": "2026-01-13",
+    "amount": 13014,
+    "category": "rent",
+    "description": "synergize plug-and-play networks"
+  },
+  {
+    "id": 45,
+    "user_id": 3,
+    "date": "2026-02-09",
+    "amount": 23951,
+    "category": "medical",
+    "description": "re-intermediate plug-and-play e-commerce"
+  },
+  {
+    "id": 46,
+    "user_id": 3,
+    "date": "2026-01-28",
+    "amount": 17620,
+    "category": "entertainment",
+    "description": "strategize strategic web services"
+  },
+  {
+    "id": 47,
+    "user_id": 3,
+    "date": "2026-03-04",
+    "amount": 32774,
+    "category": "investment",
+    "description": "envisioneer user-centric channels"
+  },
+  {
+    "id": 48,
+    "user_id": 3,
+    "date": "2026-03-22",
+    "amount": 48189,
+    "category": "entertainment",
+    "description": "transition transparent web services"
+  },
+  {
+    "id": 49,
+    "user_id": 3,
+    "date": "2026-01-15",
+    "amount": 39947,
+    "category": "entertainment",
+    "description": "unleash compelling mindshare"
+  },
+  {
+    "id": 50,
+    "user_id": 3,
+    "date": "2026-02-26",
+    "amount": 46877,
+    "category": "salary",
+    "description": "expedite front-end technologies"
+  },
+  {
+    "id": 51,
+    "user_id": 3,
+    "date": "2026-01-12",
+    "amount": 44161,
+    "category": "investment",
+    "description": "exploit revolutionary e-markets"
+  },
+  {
+    "id": 52,
+    "user_id": 3,
+    "date": "2026-03-10",
+    "amount": 12208,
+    "category": "salary",
+    "description": "re-intermediate integrated initiatives"
+  },
+  {
+    "id": 53,
+    "user_id": 3,
+    "date": "2026-02-08",
+    "amount": 33156,
+    "category": "salary",
+    "description": "matrix bricks-and-clicks e-commerce"
+  },
+  {
+    "id": 54,
+    "user_id": 3,
+    "date": "2026-01-01",
+    "amount": 30913,
+    "category": "entertainment",
+    "description": "engage integrated channels"
+  },
+  {
+    "id": 55,
+    "user_id": 3,
+    "date": "2026-03-15",
+    "amount": 39693,
+    "category": "entertainment",
+    "description": "implement one-to-one supply-chains"
+  },
+  {
+    "id": 56,
+    "user_id": 3,
+    "date": "2026-01-23",
+    "amount": 33060,
+    "category": "rent",
+    "description": "productize seamless paradigms"
+  },
+  {
+    "id": 57,
+    "user_id": 3,
+    "date": "2026-02-17",
+    "amount": 5148,
+    "category": "investment",
+    "description": "brand efficient content"
+  },
+  {
+    "id": 58,
+    "user_id": 3,
+    "date": "2026-03-08",
+    "amount": 3052,
+    "category": "medical",
+    "description": "target one-to-one infrastructures"
+  },
+  {
+    "id": 59,
+    "user_id": 3,
+    "date": "2026-02-16",
+    "amount": 4555,
+    "category": "investment",
+    "description": "grow 24/365 networks"
+  },
+  {
+    "id": 60,
+    "user_id": 3,
+    "date": "2026-02-16",
+    "amount": 5529,
+    "category": "investment",
+    "description": "utilize transparent web-readiness"
+  },
+  {
+    "id": 61,
+    "user_id": 4,
+    "date": "2026-02-09",
+    "amount": 21797,
+    "category": "entertainment",
+    "description": "integrate 24/7 users"
+  },
+  {
+    "id": 62,
+    "user_id": 4,
+    "date": "2026-02-07",
+    "amount": 39495,
+    "category": "investment",
+    "description": "orchestrate bleeding-edge vortals"
+  },
+  {
+    "id": 63,
+    "user_id": 4,
+    "date": "2026-02-21",
+    "amount": 33620,
+    "category": "investment",
+    "description": "generate front-end e-markets"
+  },
+  {
+    "id": 64,
+    "user_id": 4,
+    "date": "2026-01-20",
+    "amount": 26074,
+    "category": "food",
+    "description": "maximize collaborative solutions"
+  },
+  {
+    "id": 65,
+    "user_id": 4,
+    "date": "2026-02-18",
+    "amount": 46331,
+    "category": "medical",
+    "description": "generate ubiquitous paradigms"
+  },
+  {
+    "id": 66,
+    "user_id": 4,
+    "date": "2026-01-23",
+    "amount": 10415,
+    "category": "rent",
+    "description": "repurpose integrated methodologies"
+  },
+  {
+    "id": 67,
+    "user_id": 4,
+    "date": "2026-02-03",
+    "amount": 38117,
+    "category": "investment",
+    "description": "aggregate out-of-the-box models"
+  },
+  {
+    "id": 68,
+    "user_id": 4,
+    "date": "2026-02-04",
+    "amount": 47384,
+    "category": "medical",
+    "description": "engineer scalable web services"
+  },
+  {
+    "id": 69,
+    "user_id": 4,
+    "date": "2026-03-22",
+    "amount": 35418,
+    "category": "investment",
+    "description": "facilitate scalable action-items"
+  },
+  {
+    "id": 70,
+    "user_id": 4,
+    "date": "2026-01-22",
+    "amount": 42169,
+    "category": "rent",
+    "description": "strategize extensible schemas"
+  },
+  {
+    "id": 71,
+    "user_id": 4,
+    "date": "2026-01-26",
+    "amount": 30327,
+    "category": "entertainment",
+    "description": "matrix visionary convergence"
+  },
+  {
+    "id": 72,
+    "user_id": 4,
+    "date": "2026-02-20",
+    "amount": 8378,
+    "category": "entertainment",
+    "description": "cultivate visionary users"
+  },
+  {
+    "id": 73,
+    "user_id": 4,
+    "date": "2026-03-22",
+    "amount": 7998,
+    "category": "food",
+    "description": "empower open-source web services"
+  },
+  {
+    "id": 74,
+    "user_id": 4,
+    "date": "2026-01-16",
+    "amount": 3984,
+    "category": "medical",
+    "description": "enhance one-to-one models"
+  },
+  {
+    "id": 75,
+    "user_id": 4,
+    "date": "2026-03-22",
+    "amount": 2267,
+    "category": "medical",
+    "description": "morph integrated solutions"
+  },
+  {
+    "id": 76,
+    "user_id": 4,
+    "date": "2026-03-03",
+    "amount": 44277,
+    "category": "rent",
+    "description": "synergize leading-edge solutions"
+  },
+  {
+    "id": 77,
+    "user_id": 4,
+    "date": "2026-03-12",
+    "amount": 10973,
+    "category": "investment",
+    "description": "morph intuitive action-items"
+  },
+  {
+    "id": 78,
+    "user_id": 4,
+    "date": "2026-02-09",
+    "amount": 3462,
+    "category": "rent",
+    "description": "engage mission-critical infrastructures"
+  },
+  {
+    "id": 79,
+    "user_id": 4,
+    "date": "2026-01-08",
+    "amount": 9564,
+    "category": "food",
+    "description": "disintermediate leading-edge solutions"
+  },
+  {
+    "id": 80,
+    "user_id": 4,
+    "date": "2026-01-29",
+    "amount": 2855,
+    "category": "medical",
+    "description": "transition one-to-one systems"
+  },
+  {
+    "id": 81,
+    "user_id": 5,
+    "date": "2026-02-06",
+    "amount": 2148,
+    "category": "rent",
+    "description": "synergize transparent experiences"
+  },
+  {
+    "id": 82,
+    "user_id": 5,
+    "date": "2026-01-27",
+    "amount": 12730,
+    "category": "medical",
+    "description": "enhance world-class initiatives"
+  },
+  {
+    "id": 83,
+    "user_id": 5,
+    "date": "2026-01-05",
+    "amount": 25408,
+    "category": "rent",
+    "description": "re-contextualize value-added relationships"
+  },
+  {
+    "id": 84,
+    "user_id": 5,
+    "date": "2026-03-09",
+    "amount": 46803,
+    "category": "medical",
+    "description": "brand frictionless markets"
+  },
+  {
+    "id": 85,
+    "user_id": 5,
+    "date": "2026-01-14",
+    "amount": 26092,
+    "category": "food",
+    "description": "redefine user-centric communities"
+  },
+  {
+    "id": 86,
+    "user_id": 5,
+    "date": "2026-01-26",
+    "amount": 35800,
+    "category": "rent",
+    "description": "synergize e-business web services"
+  },
+  {
+    "id": 87,
+    "user_id": 5,
+    "date": "2026-01-04",
+    "amount": 15691,
+    "category": "rent",
+    "description": "productize proactive supply-chains"
+  },
+  {
+    "id": 88,
+    "user_id": 5,
+    "date": "2026-03-16",
+    "amount": 45406,
+    "category": "medical",
+    "description": "reinvent cross-platform applications"
+  },
+  {
+    "id": 89,
+    "user_id": 5,
+    "date": "2026-02-09",
+    "amount": 29483,
+    "category": "medical",
+    "description": "morph killer infrastructures"
+  },
+  {
+    "id": 90,
+    "user_id": 5,
+    "date": "2026-01-28",
+    "amount": 1011,
+    "category": "investment",
+    "description": "extend bricks-and-clicks architectures"
+  },
+  {
+    "id": 91,
+    "user_id": 5,
+    "date": "2026-02-13",
+    "amount": 11205,
+    "category": "medical",
+    "description": "productize plug-and-play technologies"
+  },
+  {
+    "id": 92,
+    "user_id": 5,
+    "date": "2026-03-15",
+    "amount": 20130,
+    "category": "rent",
+    "description": "iterate cutting-edge methodologies"
+  },
+  {
+    "id": 93,
+    "user_id": 5,
+    "date": "2026-03-21",
+    "amount": 11145,
+    "category": "food",
+    "description": "monetize seamless convergence"
+  },
+  {
+    "id": 94,
+    "user_id": 5,
+    "date": "2026-01-04",
+    "amount": 10301,
+    "category": "medical",
+    "description": "enable extensible convergence"
+  },
+  {
+    "id": 95,
+    "user_id": 5,
+    "date": "2026-02-05",
+    "amount": 42344,
+    "category": "salary",
+    "description": "enhance best-of-breed e-services"
+  },
+  {
+    "id": 96,
+    "user_id": 5,
+    "date": "2026-03-10",
+    "amount": 6144,
+    "category": "rent",
+    "description": "evolve bleeding-edge e-commerce"
+  },
+  {
+    "id": 97,
+    "user_id": 5,
+    "date": "2026-03-11",
+    "amount": 1049,
+    "category": "medical",
+    "description": "incubate sticky users"
+  },
+  {
+    "id": 98,
+    "user_id": 5,
+    "date": "2026-02-26",
+    "amount": 13686,
+    "category": "entertainment",
+    "description": "re-contextualize cross-platform technologies"
+  },
+  {
+    "id": 99,
+    "user_id": 5,
+    "date": "2026-01-10",
+    "amount": 49492,
+    "category": "food",
+    "description": "benchmark bleeding-edge networks"
+  },
+  {
+    "id": 100,
+    "user_id": 5,
+    "date": "2026-01-29",
+    "amount": 48873,
+    "category": "food",
+    "description": "deploy next-generation mindshare"
+  },
+  {
+    "id": 101,
+    "user_id": 6,
+    "date": "2026-01-02",
+    "amount": 3353,
+    "category": "investment",
+    "description": "engage compelling niches"
+  },
+  {
+    "id": 102,
+    "user_id": 6,
+    "date": "2026-01-26",
+    "amount": 10074,
+    "category": "entertainment",
+    "description": "visualize mission-critical architectures"
+  },
+  {
+    "id": 103,
+    "user_id": 6,
+    "date": "2026-01-07",
+    "amount": 25119,
+    "category": "salary",
+    "description": "unleash virtual eyeballs"
+  },
+  {
+    "id": 104,
+    "user_id": 6,
+    "date": "2026-01-06",
+    "amount": 516,
+    "category": "rent",
+    "description": "utilize strategic applications"
+  },
+  {
+    "id": 105,
+    "user_id": 6,
+    "date": "2026-02-10",
+    "amount": 31521,
+    "category": "entertainment",
+    "description": "target cross-platform relationships"
+  },
+  {
+    "id": 106,
+    "user_id": 6,
+    "date": "2026-01-05",
+    "amount": 6223,
+    "category": "rent",
+    "description": "re-intermediate strategic e-commerce"
+  },
+  {
+    "id": 107,
+    "user_id": 6,
+    "date": "2026-03-17",
+    "amount": 39512,
+    "category": "rent",
+    "description": "re-contextualize granular functionalities"
+  },
+  {
+    "id": 108,
+    "user_id": 6,
+    "date": "2026-02-27",
+    "amount": 16249,
+    "category": "salary",
+    "description": "re-intermediate efficient e-tailers"
+  },
+  {
+    "id": 109,
+    "user_id": 6,
+    "date": "2026-02-20",
+    "amount": 48375,
+    "category": "entertainment",
+    "description": "scale sticky channels"
+  },
+  {
+    "id": 110,
+    "user_id": 6,
+    "date": "2026-02-25",
+    "amount": 28970,
+    "category": "entertainment",
+    "description": "enhance granular e-commerce"
+  },
+  {
+    "id": 111,
+    "user_id": 6,
+    "date": "2026-02-24",
+    "amount": 44649,
+    "category": "salary",
+    "description": "facilitate web-enabled e-tailers"
+  },
+  {
+    "id": 112,
+    "user_id": 6,
+    "date": "2026-01-28",
+    "amount": 35783,
+    "category": "entertainment",
+    "description": "optimize revolutionary technologies"
+  },
+  {
+    "id": 113,
+    "user_id": 6,
+    "date": "2026-01-04",
+    "amount": 645,
+    "category": "salary",
+    "description": "empower scalable methodologies"
+  },
+  {
+    "id": 114,
+    "user_id": 6,
+    "date": "2026-02-25",
+    "amount": 10680,
+    "category": "investment",
+    "description": "empower ubiquitous solutions"
+  },
+  {
+    "id": 115,
+    "user_id": 6,
+    "date": "2026-02-20",
+    "amount": 11661,
+    "category": "medical",
+    "description": "integrate virtual systems"
+  },
+  {
+    "id": 116,
+    "user_id": 6,
+    "date": "2026-02-23",
+    "amount": 30986,
+    "category": "rent",
+    "description": "optimize best-of-breed convergence"
+  },
+  {
+    "id": 117,
+    "user_id": 6,
+    "date": "2026-02-08",
+    "amount": 34586,
+    "category": "salary",
+    "description": "reinvent 24/365 e-business"
+  },
+  {
+    "id": 118,
+    "user_id": 6,
+    "date": "2026-01-01",
+    "amount": 47441,
+    "category": "salary",
+    "description": "monetize killer vortals"
+  },
+  {
+    "id": 119,
+    "user_id": 6,
+    "date": "2026-01-10",
+    "amount": 7005,
+    "category": "food",
+    "description": "innovate customized partnerships"
+  },
+  {
+    "id": 120,
+    "user_id": 6,
+    "date": "2026-03-08",
+    "amount": 25220,
+    "category": "salary",
+    "description": "engage interactive methodologies"
+  },
+  {
+    "id": 121,
+    "user_id": 7,
+    "date": "2026-02-16",
+    "amount": 11297,
+    "category": "entertainment",
+    "description": "transition vertical bandwidth"
+  },
+  {
+    "id": 122,
+    "user_id": 7,
+    "date": "2026-03-22",
+    "amount": 38395,
+    "category": "entertainment",
+    "description": "streamline bricks-and-clicks platforms"
+  },
+  {
+    "id": 123,
+    "user_id": 7,
+    "date": "2026-03-06",
+    "amount": 22328,
+    "category": "entertainment",
+    "description": "incubate distributed relationships"
+  },
+  {
+    "id": 124,
+    "user_id": 7,
+    "date": "2026-03-08",
+    "amount": 22263,
+    "category": "medical",
+    "description": "syndicate revolutionary info-mediaries"
+  },
+  {
+    "id": 125,
+    "user_id": 7,
+    "date": "2026-02-08",
+    "amount": 35671,
+    "category": "investment",
+    "description": "exploit holistic partnerships"
+  },
+  {
+    "id": 126,
+    "user_id": 7,
+    "date": "2026-02-02",
+    "amount": 45517,
+    "category": "salary",
+    "description": "cultivate leading-edge markets"
+  },
+  {
+    "id": 127,
+    "user_id": 7,
+    "date": "2026-01-08",
+    "amount": 49204,
+    "category": "rent",
+    "description": "aggregate interactive eyeballs"
+  },
+  {
+    "id": 128,
+    "user_id": 7,
+    "date": "2026-02-09",
+    "amount": 28964,
+    "category": "salary",
+    "description": "aggregate next-generation communities"
+  },
+  {
+    "id": 129,
+    "user_id": 7,
+    "date": "2026-03-14",
+    "amount": 39866,
+    "category": "rent",
+    "description": "re-intermediate robust web services"
+  },
+  {
+    "id": 130,
+    "user_id": 7,
+    "date": "2026-01-28",
+    "amount": 35213,
+    "category": "rent",
+    "description": "redefine magnetic experiences"
+  },
+  {
+    "id": 131,
+    "user_id": 7,
+    "date": "2026-03-08",
+    "amount": 8688,
+    "category": "medical",
+    "description": "monetize front-end vortals"
+  },
+  {
+    "id": 132,
+    "user_id": 7,
+    "date": "2026-01-16",
+    "amount": 14206,
+    "category": "medical",
+    "description": "morph best-of-breed vortals"
+  },
+  {
+    "id": 133,
+    "user_id": 7,
+    "date": "2026-01-18",
+    "amount": 22151,
+    "category": "entertainment",
+    "description": "deliver bricks-and-clicks content"
+  },
+  {
+    "id": 134,
+    "user_id": 7,
+    "date": "2026-03-14",
+    "amount": 48505,
+    "category": "food",
+    "description": "reinvent dynamic eyeballs"
+  },
+  {
+    "id": 135,
+    "user_id": 7,
+    "date": "2026-01-26",
+    "amount": 21455,
+    "category": "salary",
+    "description": "empower strategic action-items"
+  },
+  {
+    "id": 136,
+    "user_id": 7,
+    "date": "2026-02-08",
+    "amount": 46896,
+    "category": "food",
+    "description": "deliver strategic ROI"
+  },
+  {
+    "id": 137,
+    "user_id": 7,
+    "date": "2026-01-16",
+    "amount": 22213,
+    "category": "rent",
+    "description": "syndicate cross-media portals"
+  },
+  {
+    "id": 138,
+    "user_id": 7,
+    "date": "2026-02-14",
+    "amount": 3096,
+    "category": "food",
+    "description": "morph clicks-and-mortar bandwidth"
+  },
+  {
+    "id": 139,
+    "user_id": 7,
+    "date": "2026-03-04",
+    "amount": 7584,
+    "category": "rent",
+    "description": "aggregate extensible e-markets"
+  },
+  {
+    "id": 140,
+    "user_id": 7,
+    "date": "2026-03-05",
+    "amount": 32379,
+    "category": "rent",
+    "description": "target end-to-end e-services"
+  },
+  {
+    "id": 141,
+    "user_id": 8,
+    "date": "2026-01-19",
+    "amount": 18668,
+    "category": "investment",
+    "description": "maximize sticky e-markets"
+  },
+  {
+    "id": 142,
+    "user_id": 8,
+    "date": "2026-02-19",
+    "amount": 31567,
+    "category": "investment",
+    "description": "grow revolutionary methodologies"
+  },
+  {
+    "id": 143,
+    "user_id": 8,
+    "date": "2026-03-03",
+    "amount": 10539,
+    "category": "rent",
+    "description": "deploy innovative systems"
+  },
+  {
+    "id": 144,
+    "user_id": 8,
+    "date": "2026-02-06",
+    "amount": 22858,
+    "category": "medical",
+    "description": "repurpose front-end technologies"
+  },
+  {
+    "id": 145,
+    "user_id": 8,
+    "date": "2026-01-23",
+    "amount": 18703,
+    "category": "medical",
+    "description": "iterate cutting-edge relationships"
+  },
+  {
+    "id": 146,
+    "user_id": 8,
+    "date": "2026-01-21",
+    "amount": 9848,
+    "category": "salary",
+    "description": "utilize real-time web services"
+  },
+  {
+    "id": 147,
+    "user_id": 8,
+    "date": "2026-03-21",
+    "amount": 27746,
+    "category": "salary",
+    "description": "syndicate frictionless paradigms"
+  },
+  {
+    "id": 148,
+    "user_id": 8,
+    "date": "2026-01-23",
+    "amount": 41878,
+    "category": "medical",
+    "description": "strategize dynamic metrics"
+  },
+  {
+    "id": 149,
+    "user_id": 8,
+    "date": "2026-02-22",
+    "amount": 27886,
+    "category": "salary",
+    "description": "disintermediate plug-and-play web services"
+  },
+  {
+    "id": 150,
+    "user_id": 8,
+    "date": "2026-02-12",
+    "amount": 24133,
+    "category": "medical",
+    "description": "scale 24/7 technologies"
+  },
+  {
+    "id": 151,
+    "user_id": 8,
+    "date": "2026-01-15",
+    "amount": 45756,
+    "category": "investment",
+    "description": "disintermediate rich web services"
+  },
+  {
+    "id": 152,
+    "user_id": 8,
+    "date": "2026-02-01",
+    "amount": 40699,
+    "category": "entertainment",
+    "description": "envisioneer global metrics"
+  },
+  {
+    "id": 153,
+    "user_id": 8,
+    "date": "2026-02-15",
+    "amount": 10102,
+    "category": "entertainment",
+    "description": "unleash enterprise e-business"
+  },
+  {
+    "id": 154,
+    "user_id": 8,
+    "date": "2026-01-13",
+    "amount": 31436,
+    "category": "investment",
+    "description": "evolve impactful schemas"
+  },
+  {
+    "id": 155,
+    "user_id": 8,
+    "date": "2026-02-12",
+    "amount": 13089,
+    "category": "investment",
+    "description": "optimize extensible paradigms"
+  },
+  {
+    "id": 156,
+    "user_id": 8,
+    "date": "2026-01-11",
+    "amount": 17870,
+    "category": "food",
+    "description": "integrate front-end web-readiness"
+  },
+  {
+    "id": 157,
+    "user_id": 8,
+    "date": "2026-01-04",
+    "amount": 563,
+    "category": "rent",
+    "description": "enhance turn-key mindshare"
+  },
+  {
+    "id": 158,
+    "user_id": 8,
+    "date": "2026-02-03",
+    "amount": 26963,
+    "category": "medical",
+    "description": "maximize bricks-and-clicks communities"
+  },
+  {
+    "id": 159,
+    "user_id": 8,
+    "date": "2026-01-18",
+    "amount": 41207,
+    "category": "medical",
+    "description": "grow dynamic infrastructures"
+  },
+  {
+    "id": 160,
+    "user_id": 8,
+    "date": "2026-02-11",
+    "amount": 39481,
+    "category": "food",
+    "description": "transition killer partnerships"
+  },
+  {
+    "id": 161,
+    "user_id": 9,
+    "date": "2026-01-21",
+    "amount": 33871,
+    "category": "food",
+    "description": "generate B2C e-services"
+  },
+  {
+    "id": 162,
+    "user_id": 9,
+    "date": "2026-02-22",
+    "amount": 7811,
+    "category": "food",
+    "description": "cultivate front-end action-items"
+  },
+  {
+    "id": 163,
+    "user_id": 9,
+    "date": "2026-02-12",
+    "amount": 47075,
+    "category": "salary",
+    "description": "transition magnetic initiatives"
+  },
+  {
+    "id": 164,
+    "user_id": 9,
+    "date": "2026-03-17",
+    "amount": 27239,
+    "category": "food",
+    "description": "engineer strategic e-services"
+  },
+  {
+    "id": 165,
+    "user_id": 9,
+    "date": "2026-02-09",
+    "amount": 14156,
+    "category": "medical",
+    "description": "deploy open-source partnerships"
+  },
+  {
+    "id": 166,
+    "user_id": 9,
+    "date": "2026-03-02",
+    "amount": 24759,
+    "category": "entertainment",
+    "description": "iterate killer e-markets"
+  },
+  {
+    "id": 167,
+    "user_id": 9,
+    "date": "2026-02-24",
+    "amount": 26068,
+    "category": "medical",
+    "description": "integrate e-business functionalities"
+  },
+  {
+    "id": 168,
+    "user_id": 9,
+    "date": "2026-02-17",
+    "amount": 1902,
+    "category": "rent",
+    "description": "maximize cross-media e-tailers"
+  },
+  {
+    "id": 169,
+    "user_id": 9,
+    "date": "2026-03-02",
+    "amount": 35234,
+    "category": "medical",
+    "description": "mesh bricks-and-clicks deliverables"
+  },
+  {
+    "id": 170,
+    "user_id": 9,
+    "date": "2026-03-16",
+    "amount": 34271,
+    "category": "investment",
+    "description": "generate granular functionalities"
+  },
+  {
+    "id": 171,
+    "user_id": 9,
+    "date": "2026-03-08",
+    "amount": 25286,
+    "category": "medical",
+    "description": "leverage plug-and-play e-markets"
+  },
+  {
+    "id": 172,
+    "user_id": 9,
+    "date": "2026-02-24",
+    "amount": 27128,
+    "category": "medical",
+    "description": "iterate killer experiences"
+  },
+  {
+    "id": 173,
+    "user_id": 9,
+    "date": "2026-03-24",
+    "amount": 4276,
+    "category": "rent",
+    "description": "re-contextualize bleeding-edge e-tailers"
+  },
+  {
+    "id": 174,
+    "user_id": 9,
+    "date": "2026-01-05",
+    "amount": 6812,
+    "category": "investment",
+    "description": "engineer transparent deliverables"
+  },
+  {
+    "id": 175,
+    "user_id": 9,
+    "date": "2026-01-03",
+    "amount": 13018,
+    "category": "entertainment",
+    "description": "deploy user-centric web services"
+  },
+  {
+    "id": 176,
+    "user_id": 9,
+    "date": "2026-02-27",
+    "amount": 23147,
+    "category": "investment",
+    "description": "morph e-business portals"
+  },
+  {
+    "id": 177,
+    "user_id": 9,
+    "date": "2026-02-19",
+    "amount": 29213,
+    "category": "food",
+    "description": "morph impactful eyeballs"
+  },
+  {
+    "id": 178,
+    "user_id": 9,
+    "date": "2026-01-19",
+    "amount": 8048,
+    "category": "medical",
+    "description": "mesh visionary applications"
+  },
+  {
+    "id": 179,
+    "user_id": 9,
+    "date": "2026-03-07",
+    "amount": 21860,
+    "category": "rent",
+    "description": "benchmark impactful convergence"
+  },
+  {
+    "id": 180,
+    "user_id": 9,
+    "date": "2026-03-15",
+    "amount": 3860,
+    "category": "medical",
+    "description": "deliver strategic infrastructures"
+  },
+  {
+    "id": 181,
+    "user_id": 10,
+    "date": "2026-01-17",
+    "amount": 15484,
+    "category": "entertainment",
+    "description": "syndicate one-to-one action-items"
+  },
+  {
+    "id": 182,
+    "user_id": 10,
+    "date": "2026-01-05",
+    "amount": 19905,
+    "category": "medical",
+    "description": "syndicate killer content"
+  },
+  {
+    "id": 183,
+    "user_id": 10,
+    "date": "2026-01-26",
+    "amount": 12287,
+    "category": "medical",
+    "description": "monetize out-of-the-box infrastructures"
+  },
+  {
+    "id": 184,
+    "user_id": 10,
+    "date": "2026-02-23",
+    "amount": 24696,
+    "category": "food",
+    "description": "whiteboard seamless e-commerce"
+  },
+  {
+    "id": 185,
+    "user_id": 10,
+    "date": "2026-02-12",
+    "amount": 7415,
+    "category": "food",
+    "description": "envisioneer web-enabled info-mediaries"
+  },
+  {
+    "id": 186,
+    "user_id": 10,
+    "date": "2026-01-13",
+    "amount": 2864,
+    "category": "medical",
+    "description": "synergize impactful info-mediaries"
+  },
+  {
+    "id": 187,
+    "user_id": 10,
+    "date": "2026-01-24",
+    "amount": 34562,
+    "category": "medical",
+    "description": "extend integrated deliverables"
+  },
+  {
+    "id": 188,
+    "user_id": 10,
+    "date": "2026-03-24",
+    "amount": 48068,
+    "category": "entertainment",
+    "description": "drive open-source action-items"
+  },
+  {
+    "id": 189,
+    "user_id": 10,
+    "date": "2026-02-25",
+    "amount": 12393,
+    "category": "salary",
+    "description": "deliver wireless networks"
+  },
+  {
+    "id": 190,
+    "user_id": 10,
+    "date": "2026-02-25",
+    "amount": 49198,
+    "category": "salary",
+    "description": "repurpose B2B infrastructures"
+  },
+  {
+    "id": 191,
+    "user_id": 10,
+    "date": "2026-02-17",
+    "amount": 2918,
+    "category": "entertainment",
+    "description": "deploy 24/7 eyeballs"
+  },
+  {
+    "id": 192,
+    "user_id": 10,
+    "date": "2026-01-10",
+    "amount": 10254,
+    "category": "rent",
+    "description": "transform efficient infrastructures"
+  },
+  {
+    "id": 193,
+    "user_id": 10,
+    "date": "2026-01-07",
+    "amount": 16770,
+    "category": "medical",
+    "description": "scale strategic deliverables"
+  },
+  {
+    "id": 194,
+    "user_id": 10,
+    "date": "2026-02-24",
+    "amount": 38266,
+    "category": "food",
+    "description": "repurpose killer methodologies"
+  },
+  {
+    "id": 195,
+    "user_id": 10,
+    "date": "2026-02-23",
+    "amount": 29212,
+    "category": "medical",
+    "description": "synthesize open-source portals"
+  },
+  {
+    "id": 196,
+    "user_id": 10,
+    "date": "2026-01-13",
+    "amount": 6651,
+    "category": "rent",
+    "description": "optimize transparent e-business"
+  },
+  {
+    "id": 197,
+    "user_id": 10,
+    "date": "2026-01-25",
+    "amount": 48644,
+    "category": "entertainment",
+    "description": "brand user-centric infrastructures"
+  },
+  {
+    "id": 198,
+    "user_id": 10,
+    "date": "2026-02-06",
+    "amount": 1305,
+    "category": "investment",
+    "description": "incubate rich niches"
+  },
+  {
+    "id": 199,
+    "user_id": 10,
+    "date": "2026-03-08",
+    "amount": 18638,
+    "category": "investment",
+    "description": "optimize cutting-edge architectures"
+  },
+  {
+    "id": 200,
+    "user_id": 10,
+    "date": "2026-03-23",
+    "amount": 8451,
+    "category": "food",
+    "description": "enhance 24/7 metrics"
+  }
+]

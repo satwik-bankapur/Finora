@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "type": "Health Insurance",
+    "amount": 91165,
+    "returns_rate": 9.23
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "type": "ELSS",
+    "amount": 35794,
+    "returns_rate": 7.24
+  },
+  {
+    "id": 3,
+    "user_id": 1,
+    "type": "ELSS",
+    "amount": 93671,
+    "returns_rate": 11.36
+  },
+  {
+    "id": 4,
+    "user_id": 2,
+    "type": "NPS",
+    "amount": 97761,
+    "returns_rate": 13.21
+  },
+  {
+    "id": 5,
+    "user_id": 2,
+    "type": "NPS",
+    "amount": 119697,
+    "returns_rate": 14.3
+  },
+  {
+    "id": 6,
+    "user_id": 2,
+    "type": "ELSS",
+    "amount": 81378,
+    "returns_rate": 10.64
+  },
+  {
+    "id": 7,
+    "user_id": 3,
+    "type": "Health Insurance",
+    "amount": 79743,
+    "returns_rate": 5.4
+  },
+  {
+    "id": 8,
+    "user_id": 3,
+    "type": "FD",
+    "amount": 8502,
+    "returns_rate": 7.8
+  },
+  {
+    "id": 9,
+    "user_id": 3,
+    "type": "ELSS",
+    "amount": 112652,
+    "returns_rate": 7.69
+  },
+  {
+    "id": 10,
+    "user_id": 4,
+    "type": "FD",
+    "amount": 106848,
+    "returns_rate": 5.97
+  },
+  {
+    "id": 11,
+    "user_id": 4,
+    "type": "NPS",
+    "amount": 132175,
+    "returns_rate": 11.64
+  },
+  {
+    "id": 12,
+    "user_id": 4,
+    "type": "NPS",
+    "amount": 50708,
+    "returns_rate": 7.43
+  },
+  {
+    "id": 13,
+    "user_id": 5,
+    "type": "NPS",
+    "amount": 80694,
+    "returns_rate": 8.06
+  },
+  {
+    "id": 14,
+    "user_id": 5,
+    "type": "NPS",
+    "amount": 60259,
+    "returns_rate": 5.37
+  },
+  {
+    "id": 15,
+    "user_id": 5,
+    "type": "PPF",
+    "amount": 50107,
+    "returns_rate": 11.88
+  },
+  {
+    "id": 16,
+    "user_id": 6,
+    "type": "PPF",
+    "amount": 107054,
+    "returns_rate": 9.22
+  },
+  {
+    "id": 17,
+    "user_id": 6,
+    "type": "FD",
+    "amount": 59492,
+    "returns_rate": 8.3
+  },
+  {
+    "id": 18,
+    "user_id": 6,
+    "type": "NPS",
+    "amount": 95533,
+    "returns_rate": 10.98
+  },
+  {
+    "id": 19,
+    "user_id": 7,
+    "type": "NPS",
+    "amount": 84608,
+    "returns_rate": 10.03
+  },
+  {
+    "id": 20,
+    "user_id": 7,
+    "type": "FD",
+    "amount": 146169,
+    "returns_rate": 11.95
+  },
+  {
+    "id": 21,
+    "user_id": 7,
+    "type": "Health Insurance",
+    "amount": 63830,
+    "returns_rate": 12.01
+  },
+  {
+    "id": 22,
+    "user_id": 8,
+    "type": "Health Insurance",
+    "amount": 63671,
+    "returns_rate": 9.05
+  },
+  {
+    "id": 23,
+    "user_id": 8,
+    "type": "Health Insurance",
+    "amount": 56447,
+    "returns_rate": 6.78
+  },
+  {
+    "id": 24,
+    "user_id": 8,
+    "type": "PPF",
+    "amount": 143281,
+    "returns_rate": 9.53
+  },
+  {
+    "id": 25,
+    "user_id": 9,
+    "type": "Health Insurance",
+    "amount": 8689,
+    "returns_rate": 5.71
+  },
+  {
+    "id": 26,
+    "user_id": 9,
+    "type": "FD",
+    "amount": 95367,
+    "returns_rate": 10.27
+  },
+  {
+    "id": 27,
+    "user_id": 9,
+    "type": "NPS",
+    "amount": 102640,
+    "returns_rate": 8.46
+  },
+  {
+    "id": 28,
+    "user_id": 10,
+    "type": "Health Insurance",
+    "amount": 105771,
+    "returns_rate": 8.85
+  },
+  {
+    "id": 29,
+    "user_id": 10,
+    "type": "ELSS",
+    "amount": 22175,
+    "returns_rate": 6.63
+  },
+  {
+    "id": 30,
+    "user_id": 10,
+    "type": "PPF",
+    "amount": 133319,
+    "returns_rate": 7.02
+  }
+]

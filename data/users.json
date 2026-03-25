@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Tanay Buch",
+    "email": "onkar53@example.com",
+    "city": "Bhind",
+    "annual_income": 735358,
+    "risk_profile": "medium"
+  },
+  {
+    "id": 2,
+    "name": "Ekantika Ramaswamy",
+    "email": "qbarad@example.com",
+    "city": "Jammu",
+    "annual_income": 895629,
+    "risk_profile": "medium"
+  },
+  {
+    "id": 3,
+    "name": "Triveni Dhar",
+    "email": "zehaandas@example.com",
+    "city": "Bokaro",
+    "annual_income": 1085213,
+    "risk_profile": "high"
+  },
+  {
+    "id": 4,
+    "name": "Kalpit Tak",
+    "email": "nathangrover@example.net",
+    "city": "Kalyan-Dombivli",
+    "annual_income": 706534,
+    "risk_profile": "medium"
+  },
+  {
+    "id": 5,
+    "name": "Ladli Mukhopadhyay",
+    "email": "aarnavrattan@example.net",
+    "city": "Solapur",
+    "annual_income": 431175,
+    "risk_profile": "medium"
+  },
+  {
+    "id": 6,
+    "name": "Netra Rattan",
+    "email": "luckyparmer@example.net",
+    "city": "Patiala",
+    "annual_income": 1436428,
+    "risk_profile": "high"
+  },
+  {
+    "id": 7,
+    "name": "Wazir Bumb",
+    "email": "ladli91@example.org",
+    "city": "Nanded",
+    "annual_income": 854924,
+    "risk_profile": "medium"
+  },
+  {
+    "id": 8,
+    "name": "Veda Shah",
+    "email": "bumbqushi@example.org",
+    "city": "Amravati",
+    "annual_income": 453640,
+    "risk_profile": "low"
+  },
+  {
+    "id": 9,
+    "name": "Avi Bhasin",
+    "email": "qadim03@example.com",
+    "city": "Raiganj",
+    "annual_income": 499211,
+    "risk_profile": "high"
+  },
+  {
+    "id": 10,
+    "name": "Isaiah Narayan",
+    "email": "zgour@example.net",
+    "city": "Bhimavaram",
+    "annual_income": 838680,
+    "risk_profile": "high"
+  }
+]
