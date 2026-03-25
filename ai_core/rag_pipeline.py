@@ -44,7 +44,7 @@ def query_vector_store(query):
 # --- Test it ---
 if __name__ == "__main__":
     # Change this to your PDF path
-    docs = load_pdf("data/tax_doc.pdf")
+    docs = load_pdf("data/tax_doc.txt")
     chunks = split_documents(docs)
     create_vector_store(chunks)
 
