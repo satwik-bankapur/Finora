@@ -1,0 +1,39 @@
+.chartWrap {
+  display: grid;
+  place-items: center;
+  gap: 12px;
+}
+
+.legend {
+  display: grid;
+  gap: 8px;
+  width: 100%;
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+  background: var(--bg-elevated);
+}
+
+.legendLeft {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+}
+
+.amount {
+  font-family: var(--font-mono);
+  color: var(--text-secondary);
+  font-size: var(--text-sm);
+}

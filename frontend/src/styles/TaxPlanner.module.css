@@ -1,0 +1,48 @@
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 1.1fr;
+  gap: 18px;
+}
+
+.resultsCard {
+  padding: 18px;
+  border-radius: 16px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-base);
+  display: grid;
+  gap: 14px;
+}
+
+.placeholder {
+  display: grid;
+  gap: 10px;
+  place-items: center;
+  text-align: center;
+  color: var(--text-secondary);
+  padding: 24px;
+}
+
+.statGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px;
+}
+
+.heroSave {
+  padding: 18px;
+  border-radius: 16px;
+  border: 1px solid var(--border-active);
+  background: linear-gradient(135deg, rgba(0, 212, 170, 0.08), rgba(0, 148, 255, 0.06));
+  text-align: center;
+}
+
+.breakdown {
+  display: grid;
+  gap: 10px;
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}

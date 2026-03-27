@@ -1,0 +1,32 @@
+.wrapper {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  padding: 4px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+  gap: 6px;
+}
+
+.option {
+  border: none;
+  padding: 12px;
+  border-radius: 10px;
+  color: var(--text-secondary);
+  background: transparent;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.2s ease, color 0.2s ease, transform 0.15s ease;
+}
+
+.active {
+  background: var(--accent-primary);
+  color: #080c14;
+  box-shadow: 0 8px 24px rgba(0, 212, 170, 0.35);
+}
+
+.descriptor {
+  color: var(--text-secondary);
+  font-size: var(--text-xs);
+  margin-top: 8px;
+}

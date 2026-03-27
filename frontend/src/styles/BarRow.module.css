@@ -1,0 +1,33 @@
+.row {
+  display: grid;
+  grid-template-columns: 1fr 3fr auto;
+  align-items: center;
+  gap: 12px;
+  font-size: var(--text-sm);
+}
+
+.barOuter {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+  overflow: hidden;
+  height: 14px;
+}
+
+.barInner {
+  height: 100%;
+  transition: width 0.8s ease;
+}
+
+.amount {
+  font-family: var(--font-mono);
+  color: var(--text-secondary);
+}
+
+@media (max-width: 640px) {
+  .row {
+    grid-template-columns: 1fr;
+    gap: 6px;
+  }
+  .amount { justify-self: flex-start; }
+}
